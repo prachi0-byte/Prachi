@@ -1,3 +1,6 @@
+
+![logo](https://github.com/prachi0-byte/Prachi/blob/main/1758024684069.jfif)
+
 <h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="wave">, I'm Prachi Chandel</h1>
 <h3 align="center">🎓 BCA Graduate | Aspiring Data Scientist | 🌍 From India</h3>
 
